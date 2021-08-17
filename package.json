@@ -1,0 +1,25 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billgeng/portfolio-generator.git"
+  },
+  "keywords": [
+    "inquirer"
+  ],
+  "author": "Bill Geng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/billgeng/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/billgeng/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
